@@ -1,0 +1,5 @@
+### Java template
+target
+out
+*.iml
+.idea
